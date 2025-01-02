@@ -1,0 +1,15 @@
+# Ignore object files
+*.o
+
+# Ignore binary files
+a.out
+*.exe
+
+# Ignore build directories
+/build/
+/bin/
+/dist/
+
+# Ignore editor-specific files
+*.swp
+*.swo
